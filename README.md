@@ -1,8 +1,7 @@
 <h1> Hello fellow code wanderers! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhqY2lxb2ZvcmJjZ3FuZXVpbnR4ZW00MGh5Nm9zMmEyemtpN3RrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" width="300" height="350">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+Vig+>+A+seasoned+technologist;And+a+strategic+innovator+😉)](https://git.io/typing-svg)
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhqY2lxb2ZvcmJjZ3FuZXVpbnR4ZW00MGh5Nm9zMmEyemtpN3RrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" width="300" height="350">
 
 Welcome to my GitHub Profile; I'm known to have a flair for merging analytical rigor with creative solutions. Currently specialising in Computer Engineering and Business Analytics at the National University of Singapore, I come from a rich background spanning from EdTech to FinTech. This plethora of experiences have always enables me to transform even complex challenges into elegant, scalable solutions.
 
