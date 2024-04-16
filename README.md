@@ -1,13 +1,22 @@
-<h2> Hello fellow code wanderers! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhqY2lxb2ZvcmJjZ3FuZXVpbnR4ZW00MGh5Nm9zMmEyemtpN3RrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" width="280" height="180">
+<h1> Hello fellow code wanderers! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<div align="left">
-  
-**I’m Vig**, a seasoned technologist and strategic innovator with a flair for merging analytical rigor with creative solutions. Armed with a Computer Engineering degree from the National University of Singapore and rich experiences from EdTech to Fintech, I excel in transforming complex challenges into elegant, scalable solutions.
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhqY2lxb2ZvcmJjZ3FuZXVpbnR4ZW00MGh5Nm9zMmEyemtpN3RrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" width="300" height="350">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=KVignesh122.KVignesh122)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+Vig+>+A+seasoned+technologist;And+a+strategic+innovator+😉)](https://git.io/typing-svg)
+
+Welcome to my GitHub Profile; I'm known to have a flair for merging analytical rigor with creative solutions. Currently specialising in Computer Engineering and Business Analytics at the National University of Singapore, I come from a rich background spanning from EdTech to FinTech. This plethora of experiences have always enables me to transform even complex challenges into elegant, scalable solutions.
+
+🔗 Connect with me to share insights, contemplate new technologies, or simply to say hello.
+
+![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=KVignesh122.KVignesh122&title=GitHub%20Visitors)
+[![Email](https://img.shields.io/badge/Email-vignesh.k%40u.nus.edu-008000?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh.k@u.nus.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=lightblue)](https://www.linkedin.com/in/kvignesh122)
+[![Instagram](https://img.shields.io/badge/My-Instagram-FF0000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vig.k.well)
 
 [![Vig's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvignesh122&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+  <summary><h2>See Intro Code</h2></summary>
 
 ```java
 public class AboutMe {
@@ -33,6 +42,8 @@ public class AboutMe {
     }
 }
 ```
+
+</details>
 
 ## Tools I Work With
 <p>
@@ -79,56 +90,4 @@ public class AboutMe {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=alphavantage4j)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=materials)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center"> My Latest Projects </h3>
-
-<!-- blog starts -->
-* [How to Navigate Your Software Development Career](https://levelup.gitconnected.com/how-to-navigate-your-software-development-career-b2f05f398672?source=rss-4430950b9342------2) <br/> <sub>2024-03-11</sub>
-* [Efficient Way to Develop Your ReactJS Project Using Scaffdog](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) <br/> <sub>2024-01-08</sub>
-<!-- blog ends -->
-     
-<h3 align="center"> Dev Setup </h3>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center"> Bots </h3>
-
-<div align="center">
-     
-| Bot Name    | Status      |
-| ----------- |:-----------:|
-| [Profile Bot](https://github.com/lifeparticle/lifeparticle/blob/master/build_readme.py)          | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
-| [Twitter Tweet Bot](https://github.com/lifeparticle/twitter-tweet-bot/blob/main/build_json.py)   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
-
-</div>
-
-</td>
-
-</tr>
-</table> <!-- End of Table -->
-
-💼 Whether you’re here to explore collaborations, or just to check out my work, I am always eager to engage with like-minded professionals to discuss potential synergies. Let’s leverage our collective expertise to drive innovation that matters.
-
-🔗 Connect with me to share insights, contemplate new technologies, or simply to say hello. Together, let’s navigate the ever-evolving landscape of technology and make a lasting impact. #TechInnovator #DataDriven #FutureBuilder"
-
-<!--
-**KVignesh122/KVignesh122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Whether you’re here to explore collaborations, or just to check out my work, I am always eager to engage with like-minded professionals to discuss potential synergies. Let’s leverage our collective expertise to drive innovation that matters. 😜
