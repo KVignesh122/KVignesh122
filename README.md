@@ -1,5 +1,5 @@
 <h2> Hello fellow code wanderers! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhqY2lxb2ZvcmJjZ3FuZXVpbnR4ZW00MGh5Nm9zMmEyemtpN3RrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" width="300" height="230">
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhqY2lxb2ZvcmJjZ3FuZXVpbnR4ZW00MGh5Nm9zMmEyemtpN3RrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" width="280" height="180">
 
 <div align="left">
   
@@ -9,6 +9,30 @@
 
 <br>
 <br>
+
+```java
+public class AboutMe {
+    private String fullname;
+    private String role;
+    private String[] languagesSpoken;
+
+    public AboutMe() {
+        this.fullname = "Vignesh Kumaravel";
+        this.role = "AI Software Developer, Uptale";
+        this.location = "Paris, France"
+        this.languagesSpoken = new String[]{"English", "Tamil", "Malay", "Spanish"};
+    }
+
+    public void greet() {
+        System.out.println("Hi, thanks for checking out my profile.");
+    }
+
+    public static void main(String[] args) {
+        AboutMe me = new AboutMe();
+        me.greet();
+    }
+}
+```
 
 ## Tools I Work With
 <p>
