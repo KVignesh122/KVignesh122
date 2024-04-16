@@ -7,13 +7,13 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KVignesh122.KVignesh122)
 
-<br>
-<br>
+[![Vig's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvignesh122&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 ```java
 public class AboutMe {
     private String fullname;
     private String role;
+    private String location;
     private String[] languagesSpoken;
 
     public AboutMe() {
@@ -74,6 +74,11 @@ public class AboutMe {
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
 </p>
 
+## My Favourite Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=cg2028machineCodeConverter)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=alphavantage4j)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=materials)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <table>
@@ -108,7 +113,6 @@ public class AboutMe {
 
 </tr>
 </table> <!-- End of Table -->
-
 
 💼 Whether you’re here to explore collaborations, or just to check out my work, I am always eager to engage with like-minded professionals to discuss potential synergies. Let’s leverage our collective expertise to drive innovation that matters.
 
