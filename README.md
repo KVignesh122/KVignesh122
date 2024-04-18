@@ -7,7 +7,7 @@ Welcome to my GitHub Profile; I'm known to have a flair for merging analytical r
 
 🔗 Connect with me to share insights, contemplate new technologies, or simply to say hello.
 
-![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=KVignesh122.KVignesh122&title=GitHub%20Visitors)
+![GitHub Visitors](https://komarev.com/ghpvc/?username=KVignesh122&color=blueviolet)
 [![Email](https://img.shields.io/badge/Email-vignesh.k%40u.nus.edu-008000?style=flat-square&logo=gmail&logoColor=white)](mailto:vignesh.k@u.nus.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvignesh122)
 [![Instagram](https://img.shields.io/badge/My-Instagram-FF0000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vig.k.well)
