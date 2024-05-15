@@ -84,7 +84,7 @@ public class AboutMe {
 
 ## My Favourite Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=image-enhancement)](https://github.com/KVignesh122/image-enhancement)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=cg2028machineCodeConverter)](https://github.com/VAST-AI-Research/TripoSR/blob/main/README.md?plain=1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=carplate-blurring)](https://github.com/KVignesh122/carplate-blurring)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=image-to-3D)](https://github.com/KVignesh122/image-to-3D)
 
 💼 Whether you’re here to explore collaborations, or just to check out my work, I am always eager to engage with like-minded professionals to discuss potential synergies. Let’s leverage our collective expertise to drive innovation that matters. 😜
