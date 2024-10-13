@@ -53,17 +53,18 @@ public class AboutMe {
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="HTML-CSS" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="RISC Assembly" src="https://img.shields.io/badge/-RISC_Assembly-007ACC?style=flat-square&logo=riscv&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
@@ -78,8 +79,10 @@ public class AboutMe {
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
   <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="LightGBM" src="https://img.shields.io/badge/-LightGBM-00C5A0?style=flat-square&logo=LightGBM&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="PyPi" src="https://img.shields.io/badge/-PyPi-3775A9?style=flat-square&logo=pypi&logoColor=white" />
 </p>
 
 ## My Favourite Projects
