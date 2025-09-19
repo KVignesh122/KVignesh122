@@ -86,9 +86,9 @@ public class AboutMe {
 </p>
 
 ## My Favourite Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=AssetNewsSentimentAnalyzer)](https://github.com/KVignesh122/AssetNewsSentimentAnalyzer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=image-to-3D)](https://github.com/KVignesh122/image-to-3D)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=image-enhancement)](https://github.com/KVignesh122/image-enhancement)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kvignesh122&repo=CLI-Dictionary-Rust)](https://github.com/KVignesh122/CLI-Dictionary-Rust)
+[![Readme Card](https://github-readme-stats-ruddy-delta-41.vercel.app/api/pin/?username=kvignesh122&repo=AssetNewsSentimentAnalyzer)](https://github.com/KVignesh122/AssetNewsSentimentAnalyzer)
+[![Readme Card](https://github-readme-stats-ruddy-delta-41.vercel.app/api/pin/?username=kvignesh122&repo=image-to-3D)](https://github.com/KVignesh122/image-to-3D)
+[![Readme Card](https://github-readme-stats-ruddy-delta-41.vercel.app/api/pin/?username=kvignesh122&repo=image-enhancement)](https://github.com/KVignesh122/image-enhancement)
+[![Readme Card](https://github-readme-stats-ruddy-delta-41.vercel.app/api/pin/?username=kvignesh122&repo=CLI-Dictionary-Rust)](https://github.com/KVignesh122/CLI-Dictionary-Rust)
 
 💼 Whether you’re here to explore collaborations, or just to check out my work, I am always eager to engage with like-minded professionals to discuss potential synergies. Let’s leverage our collective expertise to drive innovation that matters. 😜
