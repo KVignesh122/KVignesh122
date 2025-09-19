@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+Vig+>+A+seasoned+technologist;And+a+strategic+innovator+😉)](https://git.io/typing-svg)
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhqY2lxb2ZvcmJjZ3FuZXVpbnR4ZW00MGh5Nm9zMmEyemtpN3RrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" width="250" height="300">
 
-Welcome to my GitHub Profile; I'm known to have a flair for merging analytical rigor with creative solutions. Currently specialising in Computer Engineering and Business Analytics at the National University of Singapore, I come from a rich background spanning from EdTech to FinTech. This plethora of experiences have always enabled me to transform even complex challenges into elegant, scalable solutions.
+Welcome to my GitHub Profile; I'm known to have a flair for merging analytical rigor with creative solutions. Graduated with a Bachelor of Computer Engineering and minor in Business Analytics from the National University of Singapore, I come from a rich background spanning from EdTech to FinTech. This plethora of experiences have always enabled me to transform even complex challenges into elegant, scalable solutions.
 
 🔗 Connect with me to share insights, contemplate new technologies, or simply to say hello.
 
@@ -28,7 +28,7 @@ public class AboutMe {
         this.fullname = "Vignesh Kumaravel";
         this.role = "AI Software Developer, Uptale";
         this.location = "Paris, France"
-        this.languagesSpoken = new String[]{"English", "Tamil", "Malay", "Spanish"};
+        this.languagesSpoken = new String[]{"English", "Tamil", "Indonesian", "Spanish"};
     }
 
     public void greet() {
@@ -91,4 +91,4 @@ public class AboutMe {
 [![Readme Card](https://github-readme-stats-ruddy-delta-41.vercel.app/api/pin/?username=kvignesh122&repo=image-enhancement)](https://github.com/KVignesh122/image-enhancement)
 [![Readme Card](https://github-readme-stats-ruddy-delta-41.vercel.app/api/pin/?username=kvignesh122&repo=CLI-Dictionary-Rust)](https://github.com/KVignesh122/CLI-Dictionary-Rust)
 
-💼 Whether you’re here to explore collaborations, or just to check out my work, I am always eager to engage with like-minded professionals to discuss potential synergies. Let’s leverage our collective expertise to drive innovation that matters. 😜
+💼 Whether you’re here to explore collaborations, or just to check out my work, I am always eager to engage with like-minded professionals to discuss potential synergies. Let’s leverage our collective expertise to drive innovation that matters. 🥳
