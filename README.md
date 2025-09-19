@@ -8,11 +8,11 @@ Welcome to my GitHub Profile; I'm known to have a flair for merging analytical r
 🔗 Connect with me to share insights, contemplate new technologies, or simply to say hello.
 
 ![GitHub Visitors](https://komarev.com/ghpvc/?username=KVignesh122&color=blueviolet)
-[![Email](https://img.shields.io/badge/Email-vignesh.k%40u.nus.edu-008000?style=flat-square&logo=gmail&logoColor=white)](mailto:vig.kvel@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vig.kvel%40gmail.com-008000?style=flat-square&logo=gmail&logoColor=white)](mailto:vig.kvel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvignesh122)
 [![Instagram](https://img.shields.io/badge/My-Instagram-FF0000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vig.k.well)
 
-[![Vig's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvignesh122&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+[![Vig's GitHub stats](https://github-readme-stats-ruddy-delta-41.vercel.app/api?username=kvignesh122&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&rank_icon=percentile)](https://github.com/KVignesh122/github-readme-stats)
 
 <details>
   <summary><h2>See Intro Code</h2></summary>
