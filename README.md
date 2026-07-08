@@ -102,7 +102,6 @@ public class AboutMe {
 [![Readme Card](https://github-readme-stats-ruddy-delta-41.vercel.app/api/pin/?username=kvignesh122&repo=AssetNewsSentimentAnalyzer)](https://github.com/KVignesh122/AssetNewsSentimentAnalyzer)
 [![Readme Card](https://github-readme-stats-ruddy-delta-41.vercel.app/api/pin/?username=kvignesh122&repo=MT5-SMC-trading-bot)](https://github.com/KVignesh122/MT5-SMC-trading-bot)
 [![Readme Card](https://github-readme-stats-ruddy-delta-41.vercel.app/api/pin/?username=kvignesh122&repo=trademux-examples)](https://github.com/KVignesh122/trademux-examples)
-[![Readme Card](https://github-readme-stats-ruddy-delta-41.vercel.app/api/pin/?username=kvignesh122&repo=qx-ib-bridge)](https://github.com/KVignesh122/qx-ib-bridge)
 [![Readme Card](https://github-readme-stats-ruddy-delta-41.vercel.app/api/pin/?username=kvignesh122&repo=image-to-3D)](https://github.com/KVignesh122/image-to-3D)
 
 💼 Whether you’re here to explore collaborations, or just to check out my work, I am always eager to engage with like-minded professionals to discuss potential synergies. Let’s leverage our collective expertise to drive innovation that matters. 🥳
